@@ -48,12 +48,9 @@ Open with live server
 
 ## Authors
 
-- [@YashChincholi](https://www.github.com/YashChincholi)
+- [@shreyashgote](https://www.github.com/shreyashgote)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Support
-
-For support, Join my [Patreon Comunity](https://www.patreon.com/YashChincholi/membership) or Subscribe My [YouTube Channel](https://youtube.com/@YashChincholi).
